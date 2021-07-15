@@ -1,0 +1,4 @@
+
+Untuk halaman back-end (admin panel) bisa akses ke alamat : localhost/headline/confpanel
+User ID  : admin 
+Password : admin
